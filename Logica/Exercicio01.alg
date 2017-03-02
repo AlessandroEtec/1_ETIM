@@ -1,0 +1,13 @@
+/* Exercicio 01
+   Autor: Alessandro Ap. Antonio
+   Data: 02/03/2017
+*/
+INICIO
+    Inteiro base, altura, area
+    ESCREVER "Digite o valor da Base: "
+    LER base
+    ESCREVER "Digite o valor da Altura: "
+    LER altura
+    area <- base * altura
+    ESCREVER "A Área é ", area
+FIM
