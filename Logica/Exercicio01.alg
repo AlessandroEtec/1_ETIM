@@ -1,7 +1,7 @@
-/* Exercicio 01
-   Autor: Alessandro Ap. Antonio
-   Data: 02/03/2017
-*/
+//    Exercicio 01 - Crie um algoritmo para calcular a área de um retângulo.
+//    Autor: Alessandro Ap. Antonio
+//    Data: 02/03/2017
+
 INICIO
     Inteiro base, altura, area
     ESCREVER "Digite o valor da Base: "

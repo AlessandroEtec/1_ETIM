@@ -1,7 +1,7 @@
-/* Exercicio 02
-   Autor: Alessandro Ap. Antonio
-   Data: 02/03/2017
-*/
+//    Exercicio 02 - Crie um algoritmo para calcular a área de um triângulo.  
+//    Autor: Alessandro Ap. Antonio
+//    Data: 02/03/2017
+
 INICIO
     REAL base, altura, area
     ESCREVER "Digite o valor da Base: "

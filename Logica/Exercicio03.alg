@@ -1,7 +1,7 @@
-/* Exercicio 03
-   Autor: Alessandro Ap. Antonio
-   Data: 02/03/2017
-*/
+//    Exercicio 03 - Crie um algoritmo para calcular a área de um Circulo.
+//    Autor: Alessandro Ap. Antonio
+//    Data: 02/03/2017
+
 INICIO
     REAL raio, area
     CONSTANTE REAL PI <- 3.14
