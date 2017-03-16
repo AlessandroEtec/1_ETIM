@@ -5,7 +5,7 @@
 //    Data: 09/03/2017
 
 INICIO
-    inteiro largura, comp, area, precoMetro, valorTerreno
+    INTEIRO largura, comp, area, precoMetro, valorTerreno
     ESCREVER "Digite a largura do Terreno: "
     LER largura
     ESCREVER "Digite o Comprimento do Terreno: "

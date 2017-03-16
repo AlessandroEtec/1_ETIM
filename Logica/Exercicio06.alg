@@ -4,7 +4,7 @@
 //    Data: 09/03/2017
 
 INICIO
-    real prestacao, valor, taxa, tempo
+    REAL prestacao, valor, taxa, tempo
     ESCREVER "Digite o valor: "
     LER valor
     ESCREVER "Digite a taxa de Juros: "

@@ -2,13 +2,13 @@
 //    e o percentual de aumento, calcule e mostre o valor do novo salário.
 //    Autor: Alessandro Ap. Antonio
 //    Data: 09/03/2017
-inicio
-    real salario , aumento , novosalario
-    escrever "Digite o Salário atual: "
-    ler salario
-    escrever "Digite o percentual de aumento: "
-    ler aumento
+INICIO
+    REAL salario , aumento , novosalario
+    ESCREVER "Digite o Salário atual: "
+    LER salario
+    ESCREVER "Digite o percentual de aumento: "
+    LER aumento
     novosalario <- salario + ( salario * ( aumento / 100 ) )
-    escrever "O novo salário é: " , novosalario
-fim
+    ESCREVER "O novo salário é: " , novosalario
+FIM
 
